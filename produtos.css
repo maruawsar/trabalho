@@ -16,3 +16,8 @@ nav li {
 display: inline;
 margin: 0 0 0 15px;
 }
+element.style {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
